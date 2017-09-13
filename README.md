@@ -8,7 +8,7 @@ Add as a submodule to your Unity3D project directory:
 
 ## Usage
 
-- `Dimensions2D` - 2D pair of integers
-- `Dimensions3D` - 3D pair of integers
+- `Dimensions2D` - 2D set of integers
+- `Dimensions3D` - 3D set of integers
 - `List2D<T>` - 2D array that is implemented as a 1D array
 - `List3D<T>` - 3D array that is implemented as a 1D array
